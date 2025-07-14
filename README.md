@@ -1,3 +1,3 @@
-# tik-tac-toe
+# tic-tac-toe
 <br>
 https://shamikhz.github.io/tic-tac-toe/
